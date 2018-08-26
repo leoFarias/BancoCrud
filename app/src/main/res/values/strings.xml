@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BancoCrud</string>
+    <string name="button1">Button1</string>
+    <string name="gravar">Gravar</string>
+</resources>
